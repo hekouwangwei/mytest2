@@ -1,6 +1,15 @@
+<<<<<<< .mine
 fffffffffffffff
 gggggggggggggggggggg
 hhhhhhhhhhhhhhhhhhhhhhhhh
 jjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
 kkkkkkkkkkkkkkkkkkk
 ¡¢¡¢¡¢¡¢¡¿¡¿¡¿¡¿
+=======
+aaaaaaaaaaaaa
+bbbbbbbbbbbbbbbbb
+ccccccccccccccccccccc
+ddddddddddddddddddddddd
+=============
+
+>>>>>>> .theirs
